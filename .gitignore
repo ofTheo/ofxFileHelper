@@ -1,0 +1,13 @@
+*.mode1v3
+*.pbxuser
+build/
+obj/
+*.o
+openFrameworks.a
+openFrameworksDebug.a
+openFrameworksUniversal.a
+*.app/
+.DS_Store
+
+
+
